@@ -1,0 +1,16 @@
+html {
+  min-height: 225px;
+  min-width: 300px;
+}
+body {
+  background-image: url("images/background.jpg");
+}
+h1 {
+  color: white;
+}
+p {
+  color: white;
+}
+#textbox {
+  width: 100%;
+}

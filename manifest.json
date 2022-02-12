@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Word Counter",
+  "description": "This extension counts the number of words in a given input",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "images/icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
